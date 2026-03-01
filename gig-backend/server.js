@@ -16,30 +16,15 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 // Middleware
-// Allow localhost + any VS Code Port Forwarding (github.dev) tunnel URLs
-const allowedOrigins = (process.env.FRONTEND_URL || "http://localhost:3000")
-  .split(",")
-  .map((o) => o.trim());
-
-function isAllowedOrigin(origin) {
-  if (!origin) return true; // Postman / mobile app / same-origin
-  if (allowedOrigins.includes(origin)) return true;
-  // VS Code tunnel URLs: https://<random>-3000.app.github.dev
-  if (origin.endsWith(".app.github.dev")) return true;
-  if (origin.endsWith(".github.dev")) return true;
-  return false;
-}
-
-app.use(cors({
-  origin: (origin, callback) => {
-    if (isAllowedOrigin(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error(`CORS: origin ${origin} not allowed`));
-    }
-  },
-  credentials: true,
-}));
+app.use(
+  cors({
+    origin: [
+      "http://localhost:3000",            // local dev
+      "https://hushh-hack.vercel.app",    // production frontend
+    ],
+    credentials: true,
+  })
+);
 app.use(express.json());
 
 // Health check
