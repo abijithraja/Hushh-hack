@@ -1,0 +1,16 @@
+{
+  "name": "skillgig",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SkillGig - Collaborative Gig Marketplace",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev:backend": "cd gig-backend && npm run dev",
+    "dev:frontend": "cd gig-frontend && npm run dev",
+    "install:all": "npm install && cd gig-backend && npm install && cd ../gig-frontend && npm install",
+    "setup-db": "node setup-db.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
