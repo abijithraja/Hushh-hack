@@ -324,14 +324,40 @@ This concurrently starts:
 
 ---
 
-## 👥 Team
+## Team
 
-| Name            | Role                                  |
-|-----------------|---------------------------------------|
-| **Abinaya K**   | Frontend Development                  |
-| **Kishore J**   | Backend Development                   |
-| **Varun S**     | Frontend & Backend Integration        |
-| **Abijith Raja**| Frontend–Backend Integration & Deployment |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Abinaya0620">
+        <img src="https://github.com/Abinaya0620.png" width="100px;" alt="Abinaya K"/><br />
+        <sub><b>Abinaya K</b></sub>
+      </a><br />
+      <sub>Frontend Development</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/kishorekannann">
+        <img src="https://github.com/kishorekannann.png" width="100px;" alt="Kishore J"/><br />
+        <sub><b>Kishore J</b></sub>
+      </a><br />
+      <sub>Backend Development</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/VarunAigen">
+        <img src="https://github.com/VarunAigen.png" width="100px;" alt="Varun S"/><br />
+        <sub><b>Varun S</b></sub>
+      </a><br />
+      <sub>Frontend & Backend Integration</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/abijithraja">
+        <img src="https://github.com/abijithraja.png" width="100px;" alt="Abijith Raja"/><br />
+        <sub><b>Abijith Raja</b></sub>
+      </a><br />
+      <sub>Integration & Deployment</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
