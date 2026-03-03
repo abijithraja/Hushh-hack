@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://hushh-hack.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-hushh--hack.vercel.app-blue?style=for-the-badge" /></a>
+  <a href="https://hushh-hack.vercel.app/"><img src="https://img.shields.io/badge/_Live_Demo-hushh--hack.vercel.app-blue?style=for-the-badge" /></a>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ But there is **no structured peer-to-peer discovery system** inside a campus.
   - Listed skills
   - **SkillScore** per skill
 
-### 📝 2. Gig Creation
+###  2. Gig Creation
 
 Students can post gigs with:
 - Title & description
@@ -66,7 +66,7 @@ Students can post gigs with:
 
 Gigs are listed on the home feed for other students to browse and apply.
 
-### 🔄 3. Gig Lifecycle System
+###  3. Gig Lifecycle System
 
 ```
 Open  →  In Progress  →  Completed
@@ -79,7 +79,7 @@ Open  →  In Progress  →  Completed
 5. **SkillScore updates** automatically
 6. **Proof of Work card** is generated
 
-### 📊 4. SkillScore System *(Trust Engine)*
+###  4. SkillScore System *(Trust Engine)*
 
 Each user accumulates skill-based scores:
 
@@ -102,7 +102,7 @@ NewScore = OldScore + (Rating × 5) + Bonus
 
 > This is the **product differentiator** — reputation that travels with the student.
 
-### 🏆 5. Proof of Work Card *(Viral Growth Loop)*
+###  5. Proof of Work Card *(Viral Growth Loop)*
 
 After gig completion, the system generates a shareable card containing:
 
@@ -113,7 +113,7 @@ After gig completion, the system generates a shareable card containing:
 - Unique verification ID
 - Shareable link
 
-Designed specifically for **📲 WhatsApp forwarding**.
+Designed specifically for ** WhatsApp forwarding**.
 
 **Growth Loop:**
 ```
@@ -122,7 +122,7 @@ Share card → Friend clicks → Signs up → Posts gig → Dashboard updates
 
 This fulfills the **"Shareable Moment"** + **Mandatory Growth Loop** requirements.
 
-### 📈 6. Live Metrics Dashboard
+### 6. Live Metrics Dashboard
 
 Real-time tracking of:
 
@@ -138,7 +138,7 @@ Real-time tracking of:
 
 ---
 
-## 🏗 Technical Architecture
+##  Technical Architecture
 
 ```
 User
@@ -161,7 +161,7 @@ Supabase (Auth + Postgres)
 
 ---
 
-## 📁 Project Structure
+## 📁Project Structure
 
 ```
 KaiCampus-Gigs/
@@ -213,7 +213,7 @@ KaiCampus-Gigs/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -268,7 +268,7 @@ This concurrently starts:
 
 ## Future Upgrades
 
-### 1. 🔑Google OAuth Sign-In
+### 1.Google OAuth Sign-In
 
 | Aspect   | Details |
 |----------|---------|
@@ -276,7 +276,7 @@ This concurrently starts:
 | **Upgrade** | Google Sign-in for seamless one-tap login. Reduces friction for new users. |
 | **Impact** | Faster onboarding, higher signup conversion rates |
 
-### 2. 🤖 AI-Powered Gig Creation (Kai Integration)
+### 2.AI-Powered Gig Creation (Kai Integration)
 
 | Aspect   | Details |
 |----------|---------|
@@ -284,7 +284,7 @@ This concurrently starts:
 | **Upgrade** | Kai API integration to auto-structure posts, extract skills, suggest fair pricing, and estimate completion time |
 | **Impact** | Cleaner listings, professional feel, lower effort to post |
 
-### 3. 💰 Escrow-Based Campus Wallet
+### 3.Escrow-Based Campus Wallet
 
 | Aspect   | Details |
 |----------|---------|
@@ -292,7 +292,7 @@ This concurrently starts:
 | **Upgrade** | Campus wallet with escrow model — funds released after rating. Optional campus token rewards. |
 | **Impact** | Real money transactions, higher trust, scalable to inter-college level |
 
-### 4. 🤖 AI Smart Matching Engine
+### 4.AI Smart Matching Engine
 
 | Aspect   | Details |
 |----------|---------|
@@ -300,7 +300,7 @@ This concurrently starts:
 | **Upgrade** | Kai auto-suggests the best 3 helpers based on SkillScore, department, past ratings, and response time |
 | **Impact** | Faster gigs, higher completion rate, better UX |
 
-### 5. 🌐 Inter-College Expansion
+### 5. Inter-College Expansion
 
 | Aspect   | Details |
 |----------|---------|
@@ -308,7 +308,7 @@ This concurrently starts:
 | **Upgrade** | Multi-campus system with Top Colleges leaderboard and National SkillScore ranking |
 | **Impact** | Competitive growth, organic expansion, stronger community layer |
 
-### 6. 📄 AI Portfolio Builder
+### 6.AI Portfolio Builder
 
 | Aspect   | Details |
 |----------|---------|
@@ -318,9 +318,9 @@ This concurrently starts:
 
 ---
 
-## 🏁 One-Line Pitch
+##  ne-Line Pitch
 
-> **KaiCampus Gigs** transforms unstructured campus talent into a trusted micro-gig economy powered by real-time SkillScores and WhatsApp-native viral growth.
+> **Skill Gigs** transforms unstructured campus talent into a trusted micro-gig economy powered by real-time SkillScores and WhatsApp-native viral growth.
 
 ---
 
