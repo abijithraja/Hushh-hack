@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <a href="https://hushh-hack.vercel.app/"><img src="https://img.shields.io/badge/🚀_Live_Demo-hushh--hack.vercel.app-blue?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
@@ -27,7 +31,7 @@
 
 ---
 
-## ❌ The Problem We Solved
+## The Problem We Solved
 
 Indian college campuses have:
 
@@ -42,9 +46,9 @@ But there is **no structured peer-to-peer discovery system** inside a campus.
 
 ---
 
-## 💡 What We Built
+## What We Built
 
-### 🔐 1. Authentication & Profile System
+### 1. Authentication & Profile System
 
 - **Email & Password** sign-in via Supabase Auth
 - Rich user profiles with:
@@ -262,9 +266,9 @@ This concurrently starts:
 
 ---
 
-## 🔮 Future Upgrades
+## Future Upgrades
 
-### 1. � Google OAuth Sign-In
+### 1. 🔑Google OAuth Sign-In
 
 | Aspect   | Details |
 |----------|---------|
@@ -280,7 +284,7 @@ This concurrently starts:
 | **Upgrade** | Kai API integration to auto-structure posts, extract skills, suggest fair pricing, and estimate completion time |
 | **Impact** | Cleaner listings, professional feel, lower effort to post |
 
-### 3. �💰 Escrow-Based Campus Wallet
+### 3. 💰 Escrow-Based Campus Wallet
 
 | Aspect   | Details |
 |----------|---------|
