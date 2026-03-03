@@ -1,4 +1,4 @@
-<h1 align="center">🎓 KaiCampus Gigs</h1>
+<h1 align="center">Skill Gigs</h1>
 
 <p align="center">
   <b>A Campus Skill Marketplace</b><br/>
@@ -318,9 +318,20 @@ This concurrently starts:
 
 ---
 
-##  ne-Line Pitch
+## One-Line Pitch
 
 > **Skill Gigs** transforms unstructured campus talent into a trusted micro-gig economy powered by real-time SkillScores and WhatsApp-native viral growth.
+
+---
+
+## 👥 Team
+
+| Name            | Role                                  |
+|-----------------|---------------------------------------|
+| **Abinaya K**   | Frontend Development                  |
+| **Kishore J**   | Backend Development                   |
+| **Varun S**     | Frontend & Backend Integration        |
+| **Abijith Raja**| Frontend–Backend Integration & Deployment |
 
 ---
 
